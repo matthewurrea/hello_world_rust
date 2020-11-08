@@ -1,2 +1,2 @@
 # hello_world_rust
-Hello World in Rust :D
+Hello World in Rust
